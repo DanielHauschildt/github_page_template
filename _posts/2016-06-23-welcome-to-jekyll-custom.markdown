@@ -2,7 +2,7 @@
 layout: post
 title:  "First custom post"
 date:   2016-06-23 15:38:42 +0200
-categories: Custom Category
+categories: jekyll update
 ---
 This is just an example post written in **Markdown**.
 
